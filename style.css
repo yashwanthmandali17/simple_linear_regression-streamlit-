@@ -7,6 +7,7 @@
     );
     min-height:100vh;
     font-family:'Segoe UI',sans-serif;
+    text-align: center;
 }
 .card{
     background-color: #ffffff;
